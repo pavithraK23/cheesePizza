@@ -1,0 +1,71 @@
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-ERROR-com.cg.mms.dao.MobiledaoImpl:ORA-00001: unique constraint (SYSTEM.SYS_C007263) violated
+
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:insert mobile details 
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection object created 
+2019-01-18-main-DEBUG-com.cg.mms.dao.MobiledaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:in finally block
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:statement closed
+2019-01-18-main-INFO -com.cg.mms.dao.MobiledaoImpl:connection closed
